@@ -1,14 +1,6 @@
 ---
 name: lotto-max-ml-predictor
 description: Advanced Lotto Max lottery analysis and prediction engine using machine learning (Markov chains, frequency analysis, hot/cold tracking, gap analysis, entropy scoring), Monte Carlo simulation for next draw, pattern detection, and statistical modeling. Use this skill whenever users mention Lotto Max, Canadian lottery, lottery prediction, number analysis, lottery simulation, lottery ML, lottery statistics, hot cold numbers, number frequency, jackpot analysis, or want intelligent number recommendations for any lottery draw. Also trigger when users ask about lottery odds, probability calculations, or pattern recognition in number sequences.
-
-
-Created by: Reza Azizi – May 2026
-If you are interested in developing or enhancing an AI automation system—whether for workflows,
-data processing, monitoring, or custom integrations—please feel free to reach out to
-flowaiautomationsupport@gmail.com. I would be happy to discuss your requirements, propose a tailored solution,
-and explore how automation can improve efficiency, accuracy, and scalability for your environment.
-
 ---
 
 # Lotto Max ML Predictor
